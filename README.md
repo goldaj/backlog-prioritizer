@@ -51,3 +51,7 @@ The sample domain is fictional, with no real company data or proprietary operati
 ## Technologies
 
 HTML, CSS, vanilla JavaScript, localStorage. Works under `file://` and GitHub Pages. No build tooling or third-party dependencies. MIT license.
+
+## Status and limits
+
+This is an implemented portfolio prototype with a static browser interface, separate RICE/WSJF calculations, fictional examples, a screenshot, and an automated test script. The scoring logic supports discussion; it does not validate estimates or prove that a ranking improves business outcomes. No real-team usability study or production deployment evidence is included. Collaboration, authentication, and external backlog integrations are outside the current scope.
